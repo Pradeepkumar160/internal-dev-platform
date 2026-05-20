@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment variables (NEVER commit these!)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Database files
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+dev.db
+
+# Drizzle generated (keep migrations, ignore generated SQL in some setups)
+# drizzle/migrations/  ← keep this tracked
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# Temp files
+*.tmp
+*.temp
+
+# Local project config (may contain secrets)
+.project-config.json

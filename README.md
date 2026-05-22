@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Internal Developer Platform (IDP)
+# 🚀 Internal Developer Platform (IDP)||
 
 **A production-ready self-hosted DevOps dashboard for teams.**  
 Manage microservices, deployments, environment variables, live logs, and team access — all from one beautiful dark UI.
@@ -17,7 +17,7 @@ Manage microservices, deployments, environment variables, live logs, and team ac
 
 ---
 
-## ✨ Features
+## ✨ Features||
 
 | Feature | Description |
 |---|---|
@@ -32,7 +32,7 @@ Manage microservices, deployments, environment variables, live logs, and team ac
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack||
 
 **Frontend**
 - React 19 + TypeScript
@@ -50,7 +50,7 @@ Manage microservices, deployments, environment variables, live logs, and team ac
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start||
 
 ### Prerequisites
 
@@ -110,7 +110,7 @@ pnpm dev
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure||
 
 ```
 internal-dev-platform/
@@ -136,7 +136,7 @@ internal-dev-platform/
 
 ---
 
-## ⚙️ Environment Variables
+## ⚙️ Environment Variables||
 
 Copy `.env.example` to `.env`. Key variables:
 
@@ -165,7 +165,7 @@ The database file (`dev.db`) is created automatically in the project root.
 
 ---
 
-## 🏗️ Available Scripts
+## 🏗️ Available Scripts||
 
 | Script | Description |
 |--------|-------------|
@@ -200,7 +200,7 @@ The database file (`dev.db`) is created automatically in the project root.
 
 ---
 
-## 🔐 Authentication
+## 🔐 Authentication||
 
 - **Local dev**: Click "Enter Platform" → uses `devLogin` endpoint (no password needed)
 - **Production**: Integrate your OAuth provider via `VITE_OAUTH_PORTAL_URL` + `OAUTH_SERVER_URL`
@@ -208,7 +208,7 @@ The database file (`dev.db`) is created automatically in the project root.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing||
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feature/my-feature`

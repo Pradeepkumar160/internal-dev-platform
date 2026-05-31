@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Internal Developer Platform (IDP)  
+# 🚀 Internal Developer Platform (IDP)   
 
 **A production-ready self-hosted DevOps dashboard for teams.**  
 Manage microservices, deployments, environment variables, live logs, and team access — all from one beautiful dark UI.
